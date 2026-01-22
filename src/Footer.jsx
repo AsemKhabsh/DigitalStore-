@@ -28,6 +28,7 @@ const Footer = () => {
                             <li><Link to="/products">الخدمات</Link></li>
                             <li><Link to="/about">من نحن</Link></li>
                             <li><Link to="/contact">اتصل بنا</Link></li>
+                            <li><Link to="/signup">إنشاء حساب</Link></li>
                         </ul>
                     </div>
 
